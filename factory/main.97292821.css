@@ -9,7 +9,7 @@
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 
 html {
-    font-family: sans-serif;
+    font-family: Helvetica, sans-serif;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%
 }
@@ -4562,6 +4562,19 @@ h2.text-center:after {
     line-height: 32px;
     display: block;
     margin: 30px 30px 0 0
+}
+
+.list-group {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.list-group li {
+    background: url(/logo/iconmonstr-glasses-2.svg) no-repeat left center;
+    height: 20px;
+    padding-left: 25px;
+    margin: 5px;
 }
 
 /*# sourceMappingURL=main.faaf51f9.map*/
