@@ -4354,7 +4354,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
-    padding: 6.5% 0
+    padding: 6.8% 0
 }
 
 .overlay {
@@ -4442,8 +4442,8 @@ body {
 
 @media (max-width:992px) {
     .navbar-btn {
-        margin-left: 15px;
-        margin-right: 15px
+        margin-left: 12px;
+        margin-right: 12px
     }
 }
 
